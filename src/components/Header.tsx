@@ -1,11 +1,9 @@
-import React from 'react';
-
 function Header() {
   return (
     <div>
       <header>
         <nav>
-          <img src="../images/cy_logo.png" alt="사이퍼즈" />
+          <img src="/images/cy_logo.png" alt="사이퍼즈" />
           <div className="wrap">
             <ul>
               <li>
